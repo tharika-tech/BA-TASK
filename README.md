@@ -61,3 +61,60 @@ https://public.tableau.com/app/profile/tharika.t/viz/CustomerShoppingDashboard_1
 ---
 
 ## Business Recommendations
+# Shopping Dashboard – Tableau Business Data Analysis
+
+## Project Overview
+
+This project focuses on analyzing a real-world shopping business dataset using **Tableau Public**. The main objective is to understand shopping and sales-related data through interactive visualizations and identify useful business insights.
+
+The dataset was explored based on different business categories and numerical variables. A **Box Plot** was also created to understand the distribution of business data across different groups.
+
+## Objective
+
+The objective of this project is to:
+
+* Analyze a real-world business dataset.
+* Identify useful patterns and trends in shopping data.
+* Compare business performance across different categories.
+* Understand the distribution of numerical values using a Box Plot.
+* Present the findings using an interactive Tableau dashboard.
+
+## Tools Used
+
+* **Tableau Public** – Data analysis and visualization
+* **Kaggle** – Dataset source
+* **GitHub** – Project documentation and sharing
+
+## Visualizations
+
+The Tableau dashboard contains different visualizations to understand the shopping data effectively.
+
+### Box Plot
+
+The Box Plot is used to compare the distribution of a numerical business variable across different categories. It helps identify the median, variation, spread, and possible outliers in the data.
+
+### Other Visualizations
+
+The dashboard also contains suitable charts to analyze shopping-related information and identify business trends and patterns.
+
+## Key Insights
+
+The dashboard helps in understanding:
+
+* Differences between various shopping categories.
+* Distribution and variation of numerical business data.
+* Overall business patterns and trends.
+* Categories with comparatively higher or lower values.
+* Possible outliers in the dataset.
+
+## Tableau Dashboard
+
+The interactive Tableau dashboard is available here:
+
+**Tableau Public:**
+https://public.tableau.com/app/profile/tharika.t/viz/ShoppingDashboard_17866036553510/Dashboard1
+
+## Conclusion
+
+This project demonstrates how Tableau can be used to analyze real-world business data and convert raw data into meaningful visual insights. The Box Plot provides a clear understanding of data distribution across different categories, while the other visualizations help identify important business patterns and trends.
+
