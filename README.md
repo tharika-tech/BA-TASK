@@ -113,6 +113,24 @@ The interactive Tableau dashboard is available here:
 
 **Tableau Public:**
 https://public.tableau.com/app/profile/tharika.t/viz/ShoppingDashboard_17866036553510/Dashboard1
+# 📊 Week 6 - Business Trend Analysis using Tableau
+
+## Dataset
+Supermarket Sales Dataset (Kaggle)
+
+## Tool Used
+- Tableau Public
+
+## Objective
+Analyze business performance over time using an Area Chart and identify important sales trends that support business decision-making.
+
+## Business Trend Analysis
+
+The Supermarket Sales dataset was imported into Tableau Public. The **Date** field was used as the time-based field and **Sales** as the numerical business measure.
+
+An **Area Chart** was created to analyze the monthly sales trend. Three additional visualizations were also created to understand sales performance across different business dimensions.
+# Dashboard Link
+https://public.tableau.com/app/profile/tharika.t/viz/Supermarketanalysis_17884167894350/Dashboard1#1
 
 ## Conclusion
 
