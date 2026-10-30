@@ -1,1 +1,69 @@
+# Tableau Sales Analysis Dashboard
 
+## Project Overview
+This project analyzes the Superstore Sales Dataset using Tableau Public. The main objective is to identify sales trends, profit performance, product categories, and regional business insights through interactive visualizations.
+
+## Objectives
+- Analyze overall sales and profit.
+- Identify top-performing product categories.
+- Compare sales across different regions.
+- Understand monthly sales trends.
+- Create an interactive dashboard using Tableau Public.
+
+## Dataset
+**Dataset Name:** Superstore Sales Dataset
+
+**Dataset Fields:**
+- Order Date
+- Category
+- Sub-Category
+- Sales
+- Profit
+- Quantity
+- Discount
+- Region
+- Segment
+
+## Tools Used
+- Tableau Public
+- Superstore Dataset
+- Microsoft Excel
+
+## Visualizations
+1. Sales by Category – Bar Chart
+2. Sales by Region – Bar Chart
+3. Profit by Category – Bar Chart
+4. Monthly Sales Trend – Line Chart
+5. Quantity Analysis – Chart
+6. Discount Analysis – Chart
+
+## Interactive Filters
+- Region
+- Category
+- Order Date
+- Customer Segment
+
+## Key Findings
+- Sales performance varies across different months.
+- Different product categories contribute differently to total sales.
+- Profitability varies across regions.
+- Discounts can affect overall business profitability.
+
+## Conclusion
+The Tableau dashboard helps understand business performance through sales and profit analysis. It provides useful insights for better business decision-making.
+
+## Suggestions
+- Improve marketing strategies.
+- Focus on profitable products.
+- Monitor sales performance regularly.
+- Improve inventory management.
+
+## Tableau Public Dashboard Link
+
+**Dashboard URL:** 
+
+https://public.tableau.com/views/Task-13_17933440574340/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+## Created By
+**Name:** Tharika T.  
+**Project:** Tableau Sales Analysis
